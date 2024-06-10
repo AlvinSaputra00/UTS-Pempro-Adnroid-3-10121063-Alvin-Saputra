@@ -1,0 +1,25 @@
+<resources>
+
+    //Headings
+    <string name="heading_one">Home</string>
+    <string name="heading_two">Daily Activity</string>
+    <string name="heading_three">Profil</string>
+
+    //Description
+    <string name="desc_one">Di sini Anda bisa menemukan informasi singkat tentang saya, termasuk profil pribadi dan berbagai minat saya</string>
+    <string name="desc_two">Di sini, Anda akan menemukan catatan harian yang menggambarkan aktivitas dan rutinitas</string>
+    <string name="desc_three">Kenali saya lebih dekat melalui profil, hubungi saya di contact, temukan saya di media sosial di find me, dan pelajari lebih lanjut di about.</string>
+    <string name="app_name">self</string>
+
+    //Menu home
+    <string name="deschome">Home</string>
+    <string name="descdaily">Daily Acitivty</string>
+    <string name="descgalery">Gallery</string>
+    <string name="descmusic">Music Favorite &amp; Video</string>
+    <string name="descprofile">Profile</string>
+    <string name="interes">Saya adalah seorang mahasiswa aktif Teknik Informatika berfokus untuk pemahaman yang kuat tentang analisis data dan memiliki hobi bermain bulutangkis </string>
+    <string name="datagalery">Isi Galeri </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
